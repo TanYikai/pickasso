@@ -24,7 +24,8 @@ Strategy Element: Deciding when and where to move blocks, and deciding which too
 
 </br>
 
-Click on the `Pickasso.exe` file to play the game.
+Click on the `Pickasso.exe` file to play the game.</br> 
+To learn more on the development of the game, click on the `Design Document.pdf` file.
 
 </br>
 
